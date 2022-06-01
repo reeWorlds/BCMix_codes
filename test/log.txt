@@ -1,0 +1,1069 @@
+ 
+Start BC3_long_5blocks data/alice29.txt_codes
+0.0449 0.0522
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/book1_codes
+0.2443 0.2692
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/bible.txt_codes
+1.5084 1.7991
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/enwik8_codes
+36.5865 40.4603
+23891804  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/enwik9_codes
+370.2305 390.1312
+235624268  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/alice29.txt_codes
+0.0393 0.0415
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/book1_codes
+0.2147 0.2416
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/bible.txt_codes
+1.4172 1.6653
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/enwik8_codes
+31.9169 36.2558
+23891804  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/enwik9_codes
+328.6271 356.8009
+235624268  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/alice29.txt_codes
+0.0511 0.0660
+38988  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/book1_codes
+0.2797 0.3202
+207948  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/bible.txt_codes
+2.2334 2.6780
+1028268  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/enwik8_codes
+45.1619 51.9261
+24011244  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/enwik9_codes
+468.4812 506.3880
+236267724  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/alice29.txt_codes
+0.0412 0.0476
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/book1_codes
+0.2227 0.2748
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/bible.txt_codes
+1.4451 1.6709
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/enwik8_codes
+32.2956 35.6924
+24011236  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/enwik9_codes
+331.8356 356.6906
+236267668  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/alice29.txt_codes
+0.2017 0.2246
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/book1_codes
+1.0817 1.1840
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/bible.txt_codes
+6.1626 6.7358
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/enwik8_codes
+125.4285 134.6266
+24011236  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/enwik9_codes
+1301.7371 1325.9187
+236267668  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/alice29.txt_codes
+BCMix structure = 42222
+0.0957 0.1075
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/book1_codes
+BCMix structure = 42222
+0.5361 0.5916
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/bible.txt_codes
+BCMix structure = 32222
+2.8228 3.1058
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/enwik8_codes
+BCMix structure = 42332
+70.1366 75.4827
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/enwik9_codes
+BCMix structure = 42322
+751.6381 768.3855
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/alice29.txt_codes
+BCMix structure = 42222
+0.1080 0.1189
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/book1_codes
+BCMix structure = 42222
+0.5888 0.6455
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/bible.txt_codes
+BCMix structure = 32222
+3.1252 3.4627
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/enwik8_codes
+BCMix structure = 42332
+77.7202 83.3530
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/enwik9_codes
+BCMix structure = 42322
+856.9497 879.9291
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/alice29.txt_codes
+BCMix structure = 42222
+0.1128 0.1230
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/book1_codes
+BCMix structure = 42222
+0.6176 0.6799
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/bible.txt_codes
+BCMix structure = 32222
+2.7544 3.0374
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/enwik8_codes
+BCMix structure = 42332
+71.4219 77.0568
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/enwik9_codes
+BCMix structure = 42322
+730.7377 767.1241
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/alice29.txt_codes
+BCMix structure = 42222
+0.2889 0.3146
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/book1_codes
+BCMix structure = 42222
+1.5998 1.7574
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/bible.txt_codes
+BCMix structure = 32222
+8.8903 9.7003
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik8_codes
+BCMix structure = 42332
+177.0665 189.5079
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik9_codes
+BCMix structure = 42322
+1856.5783 1901.0852
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/alice29.txt_codes
+BCMix structure = 42222
+0.1096 0.1210
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/book1_codes
+BCMix structure = 42222
+0.6012 0.6576
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/bible.txt_codes
+BCMix structure = 32222
+3.2967 3.6103
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/enwik8_codes
+BCMix structure = 42332
+79.1213 85.0702
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/enwik9_codes
+BCMix structure = 42322
+752.2813 784.0667
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/alice29.txt_codes
+BCMix structure = 42222
+0.1486 0.1657
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/book1_codes
+BCMix structure = 42222
+0.8044 0.8831
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/bible.txt_codes
+BCMix structure = 32222
+4.4911 4.9093
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik8_codes
+BCMix structure = 42332
+120.0429 128.9889
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik9_codes
+BCMix structure = 42322
+1176.7246 1204.4809
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/alice29.txt_codes
+0.1207 0.1369
+35504  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/book1_codes
+0.6864 0.7542
+194550  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/bible.txt_codes
+3.6253 3.9758
+929969  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/enwik8_codes
+100.7879 108.7271
+24045884  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/enwik9_codes
+24045884  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: DATA\enwik9_codes longer than TMP/2
+
+
+Start RMD_R2_4inf data/alice29.txt_codes
+0.1424 0.1591
+35441  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/book1_codes
+0.8111 0.8877
+192744  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/bible.txt_codes
+4.2297 4.6821
+933621  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/enwik8_codes
+116.7874 125.9375
+23118897  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/enwik9_codes
+1244.9713 1280.0643
+228112827  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/alice29.txt_codes
+0.1062 0.1202
+39712  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/book1_codes
+0.6134 0.6795
+210415  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/bible.txt_codes
+3.0850 3.4118
+1049003  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/enwik8_codes
+82.4408 88.8025
+25554967  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/enwik9_codes
+798.3231 819.4652
+251296235  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/alice29.txt_codes
+0.1094 0.1213
+39094  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/book1_codes
+0.6606 0.7341
+214980  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/bible.txt_codes
+3.2659 3.6209
+1055691  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/enwik8_codes
+84.3396 90.8496
+25276782  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/enwik9_codes
+839.4553 865.6293
+250301493  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/alice29.txt_codes
+0.0498 0.0545
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/book1_codes
+0.2707 0.3021
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/bible.txt_codes
+1.4786 1.6385
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/alice29.txt_codes
+0.0426 0.0479
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/book1_codes
+0.2314 0.2570
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/bible.txt_codes
+1.2904 1.4380
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/alice29.txt_codes
+0.0365 0.0399
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/book1_codes
+0.1948 0.2177
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/bible.txt_codes
+1.1458 1.2905
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/alice29.txt_codes
+0.0449 0.0488
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/book1_codes
+0.2451 0.2719
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/bible.txt_codes
+1.5198 1.7463
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/enwik8_codes
+35.3788 39.1411
+23891804  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_5blocks data/enwik9_codes
+369.7341 392.7155
+235624268  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/alice29.txt_codes
+0.0415 0.0470
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/book1_codes
+0.2281 0.2523
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/bible.txt_codes
+1.4803 1.7008
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/enwik8_codes
+33.4043 37.0721
+23891804  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_long_6blocks data/enwik9_codes
+345.0848 373.2207
+235624268  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/alice29.txt_codes
+0.0502 0.0660
+38988  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/book1_codes
+0.2735 0.3091
+207948  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/bible.txt_codes
+2.2023 2.6290
+1028268  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/enwik8_codes
+44.7186 51.1227
+24011244  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_2stream data/enwik9_codes
+450.2839 497.4984
+236267724  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/alice29.txt_codes
+0.0489 0.0536
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/book1_codes
+0.2631 0.2946
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/bible.txt_codes
+1.6288 1.8785
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/enwik8_codes
+36.8335 40.5095
+24011236  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_long data/enwik9_codes
+376.0475 405.1434
+236267668  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/alice29.txt_codes
+0.1936 0.2143
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/book1_codes
+1.0462 1.1603
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/bible.txt_codes
+6.0070 6.5447
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/enwik8_codes
+120.6813 129.7729
+24011236  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_simple data/enwik9_codes
+1253.6788 1279.8345
+236267668  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/alice29.txt_codes
+BCMix structure = 42222
+0.0935 0.1034
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/book1_codes
+BCMix structure = 42222
+0.5274 0.5746
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/bible.txt_codes
+BCMix structure = 32222
+2.7679 3.0458
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/enwik8_codes
+BCMix structure = 42332
+68.7681 74.1109
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_10 data/enwik9_codes
+BCMix structure = 42322
+728.5079 751.2086
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/alice29.txt_codes
+BCMix structure = 42222
+0.1057 0.1138
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/book1_codes
+BCMix structure = 42222
+0.5759 0.6307
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/bible.txt_codes
+BCMix structure = 32222
+3.0727 3.3672
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/enwik8_codes
+BCMix structure = 42332
+76.0736 81.8295
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_8 data/enwik9_codes
+BCMix structure = 42322
+847.7921 861.9628
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/alice29.txt_codes
+BCMix structure = 42222
+0.1109 0.1217
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/book1_codes
+BCMix structure = 42222
+0.6102 0.6693
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/bible.txt_codes
+BCMix structure = 32222
+2.7215 2.9862
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/enwik8_codes
+BCMix structure = 42332
+70.7885 76.4164
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_digitaligned_9 data/enwik9_codes
+BCMix structure = 42322
+743.4200 761.4457
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/alice29.txt_codes
+BCMix structure = 42222
+0.2847 0.3241
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/book1_codes
+BCMix structure = 42222
+1.5838 1.7683
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/bible.txt_codes
+BCMix structure = 32222
+9.0929 10.0067
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik8_codes
+BCMix structure = 42332
+172.0859 185.1193
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik9_codes
+BCMix structure = 42322
+1857.0878 1952.7235
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/alice29.txt_codes
+BCMix structure = 42222
+0.1005 0.1100
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/book1_codes
+BCMix structure = 42222
+0.5553 0.6126
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/bible.txt_codes
+BCMix structure = 32222
+3.0813 3.3986
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/enwik8_codes
+BCMix structure = 42332
+74.1167 79.4737
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_single data/enwik9_codes
+BCMix structure = 42322
+717.3622 742.3178
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/alice29.txt_codes
+BCMix structure = 42222
+0.1237 0.1382
+35294  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/book1_codes
+BCMix structure = 42222
+0.6753 0.7462
+192693  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/bible.txt_codes
+BCMix structure = 32222
+3.8382 4.2740
+938709  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik8_codes
+BCMix structure = 42332
+110.0302 118.9435
+22952627  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start BCMix_splited data/enwik9_codes
+BCMix structure = 42322
+1041.1203 1083.0037
+226788813  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/alice29.txt_codes
+0.1109 0.1218
+35504  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/book1_codes
+0.6298 0.6935
+194550  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/bible.txt_codes
+3.3268 3.6643
+929969  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/enwik8_codes
+94.0515 101.0763
+24045884  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2inf data/enwik9_codes
+24045884  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: DATA\enwik9_codes longer than TMP/2
+
+
+Start RMD_R2_4inf data/alice29.txt_codes
+0.1260 0.1369
+35441  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/book1_codes
+0.7212 0.7979
+192744  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/bible.txt_codes
+3.7944 4.1627
+933621  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/enwik8_codes
+104.5829 112.6628
+23118897  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RMD_R2_4inf data/enwik9_codes
+1118.5150 1145.2180
+228112827  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/alice29.txt_codes
+0.1260 0.1431
+39712  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/book1_codes
+0.7356 0.8182
+210415  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/bible.txt_codes
+3.5106 3.8728
+1049003  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/enwik8_codes
+100.5651 108.5052
+25554967  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start RPBC data/enwik9_codes
+987.2942 1015.8961
+251296235  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/alice29.txt_codes
+0.0962 0.1079
+39094  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/book1_codes
+0.6258 0.6943
+214980  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/bible.txt_codes
+3.0559 3.3711
+1055691  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/enwik8_codes
+81.1948 87.4719
+25276782  
+Comparing files DATA\enwik8_codes and TMP/2
+FC: no differences encountered
+
+Start SCDC data/enwik9_codes
+808.8055 831.6270
+250301493  
+Comparing files DATA\enwik9_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/alice29.txt_codes
+0.0571 0.0635
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/book1_codes
+0.3106 0.3432
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/bible.txt_codes
+1.6583 1.8289
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/alice29.txt_codes
+0.0487 0.0513
+36684  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/book1_codes
+0.2649 0.2947
+199084  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC3_short_5blocks data/bible.txt_codes
+1.4377 1.6084
+956580  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/alice29.txt_codes
+0.0361 0.0398
+38932  
+Comparing files DATA\alice29.txt_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/book1_codes
+0.1926 0.2118
+207940  
+Comparing files DATA\book1_codes and TMP/2
+FC: no differences encountered
+
+Start BC7_short data/bible.txt_codes
+1.1370 1.2827
+1028212  
+Comparing files DATA\bible.txt_codes and TMP/2
+FC: no differences encountered
+

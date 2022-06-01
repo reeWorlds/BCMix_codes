@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(115,2): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(152,16): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(404,43): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(398,14): warning C4101: 'z': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(401,11): warning C4101: 'x': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(398,11): warning C4101: 't': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\RMD_R2_4inf\main.cpp(468,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RMD_R2_4inf.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\RMD_R2_4inf.exe

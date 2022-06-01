@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(75,13): warning C4018: '<=': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(118,13): warning C4101: 'j': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(118,10): warning C4101: 'i': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(147,27): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(222,19): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(199,14): warning C4101: 'y': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(240,57): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(240,38): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(267,18): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(233,14): warning C4101: 'y': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(291,24): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_long_5blocks\main.cpp(360,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BC3_long_5blocks.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\BC3_long_5blocks.exe

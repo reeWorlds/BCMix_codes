@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\SCDC\main.cpp(70,16): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\SCDC\main.cpp(121,11): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\SCDC\main.cpp(208,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 85 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SCDC.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\SCDC.exe

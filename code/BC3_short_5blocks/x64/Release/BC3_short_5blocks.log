@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(79,13): warning C4018: '<=': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(122,13): warning C4101: 'j': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(122,10): warning C4101: 'i': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(151,27): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(224,19): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(201,14): warning C4101: 'y': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(240,38): warning C4244: '=': conversion from 'uint16_t' to 'uint8_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(261,18): warning C4244: '=': conversion from 'uint64_t' to 'uint16_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(235,14): warning C4101: 'y': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(287,24): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(297,19): warning C4244: '=': conversion from 'uint64_t' to 'int32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(303,11): warning C4244: '=': conversion from 'uint64_t' to 'int32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(285,11): warning C4101: 'u': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC3_short_5blocks\main.cpp(352,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BC3_short_5blocks.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\BC3_short_5blocks.exe

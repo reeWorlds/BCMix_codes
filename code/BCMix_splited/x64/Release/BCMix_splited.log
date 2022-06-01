@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(98,84): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(98,47): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(107,84): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(107,47): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(112,84): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(112,47): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(117,84): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(117,47): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(215,20): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(220,33): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(348,38): warning C4018: '>': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(358,38): warning C4018: '>': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(368,38): warning C4018: '>': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(378,38): warning C4018: '>': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BCMix_splited\main.cpp(672,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 92 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BCMix_splited.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\BCMix_splited.exe

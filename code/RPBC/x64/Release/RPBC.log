@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\RPBC\main.cpp(78,16): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\RPBC\main.cpp(75,13): warning C4101: 'cur': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\RPBC\main.cpp(182,29): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\RPBC\main.cpp(256,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 86 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RPBC.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\RPBC.exe

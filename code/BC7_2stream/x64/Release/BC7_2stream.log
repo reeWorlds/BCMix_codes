@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Diplome2022\FinalCompilation\AllCodes\BC7_2stream\main.cpp(141,20): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC7_2stream\main.cpp(149,24): warning C4018: '<': signed/unsigned mismatch
+D:\Diplome2022\FinalCompilation\AllCodes\BC7_2stream\main.cpp(176,20): warning C4244: 'initializing': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Diplome2022\FinalCompilation\AllCodes\BC7_2stream\main.cpp(156,11): warning C4101: 'prefixSz': unreferenced local variable
+D:\Diplome2022\FinalCompilation\AllCodes\BC7_2stream\main.cpp(398,30): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 91 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BC7_2stream.vcxproj -> D:\Diplome2022\FinalCompilation\AllCodes\x64\Release\BC7_2stream.exe
